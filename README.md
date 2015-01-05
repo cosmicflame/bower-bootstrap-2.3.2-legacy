@@ -1,5 +1,8 @@
 A fork of twitter/bootstrap legacy 2.3.3 maintained for bower install.
 
+Applies the fix found [https://github.com/twbs/bootstrap/commit/e7b4fedee8f0e7590d0b8eff7aaae160bad0e483#js/tooltip.js]
+here so that tooltips work correctly.
+
 **You should use bootstrap 3.0**, use this only if you are stuck without ability to upgrade your project.
 there is no development going here, no issues, etc.. you get the picture
 
